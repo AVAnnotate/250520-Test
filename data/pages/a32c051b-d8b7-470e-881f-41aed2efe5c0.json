@@ -1,0 +1,14 @@
+{
+  "content": [],
+  "created_at": "2025-05-20T15:10:26.114Z",
+  "created_by": "SteveMarvin",
+  "title": "Gordon Ramsay's Stir Fry Guide",
+  "slug": "gordon-ramsays-stir-fry-guide",
+  "updated_at": "2025-05-20T15:10:26.114Z",
+  "updated_by": "SteveMarvin",
+  "autogenerate": {
+    "enabled": true,
+    "type": "event",
+    "type_id": "e135a221-eb8f-419f-8d1a-293a8c985c7e"
+  }
+}
